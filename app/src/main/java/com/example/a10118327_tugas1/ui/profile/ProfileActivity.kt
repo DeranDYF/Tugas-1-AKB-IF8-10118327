@@ -10,3 +10,7 @@ class ProfileActivity : AppCompatActivity() {
         setContentView(R.layout.activity_profile)
     }
 }
+//06-04-2021
+//10118327
+//Deran Deriyana F
+//IF8

@@ -26,3 +26,7 @@ class SplashScreen : AppCompatActivity() {
         }, 2000L)
     }
 }
+//06-04-2021
+//10118327
+//Deran Deriyana F
+//IF8
